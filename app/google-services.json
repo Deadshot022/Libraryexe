@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299985937458",
+    "project_id": "libraryexe-f4384",
+    "storage_bucket": "libraryexe-f4384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299985937458:android:1716df154f4cdb33b5c82b",
+        "android_client_info": {
+          "package_name": "com.android.libraryexe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-G12fYF8ATmrvWF8XdlewUlrGeQi8Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
